@@ -1,5 +1,5 @@
 # Cloud Detection
-The 'Computer Vision' big project by Duc Tran Van, Minh Nguyen Tan, Trung Nguyen Hoang, Bong Nguyen Thanh using **Cloud-net** and **U-net**
+The 'Computer Vision' big project by Duc Tran Van, Minh Nguyen Tan, Trung Nguyen Hoang, Bong Nguyen Thanh, Hoang Pham Nguyen Tuan using **Cloud-net** and **U-net**
 
 # Dataset
 The dataset was fetch from [38-Cloud: A Cloud Segmentation Dataset](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset).
